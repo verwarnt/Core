@@ -2,9 +2,7 @@
 (script = registerScript({
     name: "ForcedAimbot",
     version: "1.1",
-    authors: ["CzechHek"]
-})).import("Core.lib");
-
+    authors: ["verwarnt"]
 module = {
     name: "ForcedAimbot",
     category: "Combat",
